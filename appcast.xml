@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Quick Entry</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Wed, 23 Sep 2026 04:12:00 -0500</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://jedado.github.io/notion-quick-entry-updates/QuickEntry-0.2.0-macos.zip" length="2358232" type="application/octet-stream" sparkle:edSignature="AfGt8MiWfBngRgZXo2VLPpmCFThItVtmYN5WUYksi/Ot47p+4ytwkzvfDtMFjG6WRCEKZsdLTv3weqgWXiybBA=="/>
+        </item>
+    </channel>
+</rss>
