@@ -1,7 +1,16 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Quick Entry</title>
+        <title>Threadoak</title>
+        <item>
+            <title>Threadoak 0.3.3</title>
+            <pubDate>Fri, 23 Oct 2026 17:17:20 -0500</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://jedado.github.io/notion-quick-entry-updates/release-notes-0.3.3.html</sparkle:releaseNotesLink>
+            <enclosure url="https://jedado.github.io/notion-quick-entry-updates/QuickEntry-0.3.3-macos.zip" length="9458645" type="application/octet-stream" sparkle:edSignature="pIbCEgZ+W+v1J/NeywUHQgP0lFxaxb72RTolUDhwqX7HmXb3gBHLzsPghGd9nRj5Xdt31+ghEXqSUelyknYLDw==" />
+        </item>
         <item>
             <title>Quick Entry 0.3.2</title>
             <pubDate>Fri, 23 Oct 2026 08:47:43 -0500</pubDate>
@@ -9,7 +18,7 @@
             <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://jedado.github.io/notion-quick-entry-updates/release-notes-0.3.2.html</sparkle:releaseNotesLink>
-            <enclosure url="https://jedado.github.io/notion-quick-entry-updates/QuickEntry-0.3.2-macos.zip" length="7722785" type="application/octet-stream" sparkle:edSignature="utZNaFfi72GIu9rKI79QDibpaGigrO7ygYOlenoTM1WjGAyFb3ud1ZHFUTvN9OVi6eLfnW58BEHNWVeSyqM/Aw=="/>
+            <enclosure url="https://jedado.github.io/notion-quick-entry-updates/QuickEntry-0.3.2-macos.zip" length="7722785" type="application/octet-stream" sparkle:edSignature="utZNaFfi72GIu9rKI79QDibpaGigrO7ygYOlenoTM1WjGAyFb3ud1ZHFUTvN9OVi6eLfnW58BEHNWVeSyqM/Aw==" />
         </item>
         <item>
             <title>0.2.0</title>
@@ -17,7 +26,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://jedado.github.io/notion-quick-entry-updates/QuickEntry-0.2.0-macos.zip" length="2358232" type="application/octet-stream" sparkle:edSignature="AfGt8MiWfBngRgZXo2VLPpmCFThItVtmYN5WUYksi/Ot47p+4ytwkzvfDtMFjG6WRCEKZsdLTv3weqgWXiybBA=="/>
+            <enclosure url="https://jedado.github.io/notion-quick-entry-updates/QuickEntry-0.2.0-macos.zip" length="2358232" type="application/octet-stream" sparkle:edSignature="AfGt8MiWfBngRgZXo2VLPpmCFThItVtmYN5WUYksi/Ot47p+4ytwkzvfDtMFjG6WRCEKZsdLTv3weqgWXiybBA==" />
         </item>
     </channel>
 </rss>
