@@ -3,6 +3,15 @@
     <channel>
         <title>Quick Entry</title>
         <item>
+            <title>Quick Entry 0.3.2</title>
+            <pubDate>Fri, 23 Oct 2026 08:47:43 -0500</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://jedado.github.io/notion-quick-entry-updates/release-notes-0.3.2.html</sparkle:releaseNotesLink>
+            <enclosure url="https://jedado.github.io/notion-quick-entry-updates/QuickEntry-0.3.2-macos.zip" length="7722785" type="application/octet-stream" sparkle:edSignature="utZNaFfi72GIu9rKI79QDibpaGigrO7ygYOlenoTM1WjGAyFb3ud1ZHFUTvN9OVi6eLfnW58BEHNWVeSyqM/Aw=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Wed, 23 Sep 2026 04:12:00 -0500</pubDate>
             <sparkle:version>2</sparkle:version>
